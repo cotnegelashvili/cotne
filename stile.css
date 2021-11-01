@@ -1,0 +1,22 @@
+table tbody tr td img {
+    width: 100px;
+    height: 100px;
+    object-fit:cover;
+}
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align:center ;
+    padding: 10px;
+}
+table tr th { 
+    color: red;
+}
+h1 {
+    text-align:center ;
+}
+table {
+    background-color: brown;
+}
